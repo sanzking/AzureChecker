@@ -51,7 +51,7 @@ class MicrosoftMailChecker:
     def __init__(self):
         self.t = f'''{(Fore.LIGHTCYAN_EX)}Welcome Use AzureChecker!
 {(Fore.RESET)}'''
-        self.apiList = ['https://azx010.herokuapp.com/', 'https://azx011.herokuapp.com/', 'https://azx012.herokuapp.com/', 'https://azx013.herokuapp.com/', 'https://azx014.herokuapp.com/', 'https://azx015.herokuapp.com/', 'https://azx016.herokuapp.com/', 'https://azx017.herokuapp.com/', 'https://azx018.herokuapp.com/', 'https://azx019.herokuapp.com/', 'https://azx026.herokuapp.com/', 'https://azx027.herokuapp.com/', 'https://azx028.herokuapp.com/', 'https://azx029.herokuapp.com/', 'https://azx030.herokuapp.com/', 'https://azx031.herokuapp.com/', 'https://azx032.herokuapp.com/', 'https://azx033.herokuapp.com/', 'https://azx034.herokuapp.com/', 'https://azx035.herokuapp.com/']
+        self.apiList = ['https://fucking/']
         print(self.t)
         #Auth().Verify()
         while True:
